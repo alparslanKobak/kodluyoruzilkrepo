@@ -1,4 +1,30 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz Ilk Repo
 
-![Patika](https://academy.patika.dev/_next/image?url=https%3A%2F%2Fpatika-prod.s3.eu-central-1.amazonaws.com%2FstaticFiles%2Facademy-logo.png&w=256&q=75)
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+***
+![projeResmi](/Img/projeSs.png)
+***
+
+## Installation
+***
+```
+https://github.com/alparslanKobak/kodluyoruzilkrepo.git
+```
+
+## Usage
+***
+Projeyi klonladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
+
+## Contributing
+***
+Pull requestler kabul edilir. Büyük değişiklikler için, önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+***
+[MIT](https://choosealicense.com/licenses/mit/)
